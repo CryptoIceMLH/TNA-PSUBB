@@ -4,9 +4,7 @@
 
 **HP DPS-1200FB A** &nbsp;`vs`&nbsp; **Meanwell LRS-1200-12**
 
-[![Winner](https://img.shields.io/badge/Winner-HP%20DPS--1200FB%20A-378ADD?style=for-the-badge&logo=hp&logoColor=white)](https://github.com)
-[![Efficiency](https://img.shields.io/badge/Efficiency-80%2B%20Platinum%2094%25-00c896?style=for-the-badge)](https://github.com)
-[![Build](https://img.shields.io/badge/%24BTC%20Tech%20Nerd%20Army-⚡-f7931a?style=for-the-badge)](https://github.com)
+
 
 </div>
 
