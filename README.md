@@ -1,3 +1,7 @@
+
+![photo_2026-03-20_16-56-20 (3)](https://github.com/user-attachments/assets/46697817-4dbf-4703-a9a4-83735b40a38a)
+
+
 <div align="center">
 
 # ⚡ PSU Showdown: 1200W Class
@@ -11,6 +15,7 @@
 ---
 
 ## 📊 Electrical Performance
+![Uploading PSUBBFULLmanual.jpg…]()
 
 | Spec | HP DPS-1200FB A | Meanwell LRS-1200-12 |
 |------|:---:|:---:|
