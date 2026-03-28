@@ -21,7 +21,7 @@
 | **Output ripple (p-p)** | `~50 mV` ✅ | `~150 mV` ❌ |
 | **Load regulation** | `±0.5%` ✅ | `±1.0%` ❌ |
 | **Hold-up time** | `~20 ms` ✅ | `~16 ms` ❌ |
-| **Input voltage range** | `110–240V only`  | `85–264V universal` ✅ |
+| **Input voltage range** | `110–240V ✅`  | `85–264V universal` ✅ |
 | **Power factor correction** | Active PFC ✅ | Passive PFC ❌ |
 
 > **Efficiency gap math:** 7% efficiency difference = **84W of heat you're paying for, constantly.**  
