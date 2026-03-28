@@ -76,22 +76,13 @@
 | | HP DPS-1200FB A | Meanwell LRS-1200-12 |
 |-|:---:|:---:|
 | **Score** | **9 / 13** | **4 / 13** |
-| **Rating** | 🥇 Absolute Chad | 🥈 Capable but Expensive |
+| **Rating** | 🥇 Absolute Chad | 🥈 Capable but wont last and you get Voltage drop under loads |
 
 </div>
 
-### ✅ Choose the HP if:
-- You're on UK/EU mains (**230V**)  
-- Running **24/7 continuous load** (mining, servers, embedded infra)  
-- You care about **ripple noise** on sensitive hardware rails  
-- You want **hot-swap / redundancy** without paying enterprise prices  
-- You're not insane with money  
 
-### ⚠️ Choose the Meanwell if:
-- You're on **110V** (North America / no step-up transformer)  
-- You need a **plug-and-play screw terminal** setup with zero adapter faff  
-- Operating in environments below **0°C or above 50°C**  
-- You need it **new with a warranty** for a client-facing build  
+
+
 
 ---
 
